@@ -1,0 +1,14 @@
+/*
+Theme Name: GCB SaaS Theme (Headless)
+Theme URI: https://github.com/wordpress-gcb/gcb-saas-theme-headless
+Author: GCB
+Author URI: https://gutenbergcontrolblocks.com
+Description: Headless variant of the GCB SaaS demo theme. WordPress is the editorial backend only — every saas-* block defers to the gcb-next-starter Next.js frontend (component-server URL set in Settings → GCB Lite) for both editor previews and public-site rendering. The PHP-rendered variant lives at github.com/wordpress-gcb/gcb-saas-theme-php.
+Version: 0.1.0
+Requires at least: 6.5
+Tested up to: 7.0
+Requires PHP: 7.4
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: gcb-saas-theme-headless
+*/
